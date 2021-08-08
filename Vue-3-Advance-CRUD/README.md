@@ -56,7 +56,7 @@ npm install
 
 ## API Project Setup (Laravel API)
 
-https://github.com/ManiruzzamanAkash/Laravel-Basic-CRUD-API
+https://github.com/abid-anjum/Vue-3-CRUD.git
 > Note: It could be your api if you want. Just follow the process. It's super simple by using Laravel with PHP
 
 ### Compiles and hot-reloads for development
